@@ -53,6 +53,16 @@
     * GUI stats using blynk app
     
     
+    Integrating Ultrasonic sensor with Node Mcu
+    
+      ![image](https://user-images.githubusercontent.com/72791488/178271446-e37057e9-e160-49de-a547-0710a98cfb2f.png)
       
+      
+      
+    Integrating Relay Module with Node Mcu:
+    
+      ![image](https://user-images.githubusercontent.com/72791488/178271563-83b3e21b-a4cd-4558-b82f-e5f5265a63ab.png)
+
+
 
      
